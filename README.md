@@ -23,7 +23,7 @@ Each notebook follows an official [Scanpy](https://scanpy.readthedocs.io) or [Sq
 - Visium H&E: `scale` in `calculate_image_features` changes the crop resolution, not the surrounding context; `spot_scale` widens the crop.
 
 ## Environment
-Python 3.13, Scanpy 1.12.4, Squidpy 1.8.3. Full package list in `requirements.txt`.
+Python 3.12 (Scanpy notebooks) and 3.13 (Squidpy notebooks), Scanpy 1.12.4, Squidpy 1.8.3. Full package list in `requirements.txt`.
 Datasets are downloaded by the notebooks and are not stored in this repository.
 
 ## Next
