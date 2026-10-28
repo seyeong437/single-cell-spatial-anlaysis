@@ -31,6 +31,4 @@ Most datasets are downloaded by the notebooks and are not stored in this reposit
 The Xenium dataset must be downloaded manually from 10x Genomics ("FFPE Human Lung Cancer with Xenium Multimodal Cell Segmentation", Output Bundle). No data are stored in this repository.
 
 ## Next
-
-## Next
 A personal project applying these methods to public melanoma imaging mass cytometry data, focusing on T cells and immunotherapy response.
